@@ -19,6 +19,7 @@
 
 </head>
 <body>
+    Cosas
      <div id="wrapper">
         <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="adjust-nav">
