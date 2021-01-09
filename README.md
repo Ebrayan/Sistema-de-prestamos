@@ -1,5 +1,5 @@
 # Sistema-de-prestamos
-Aun no completado y con algunos errores
+Aun no completado 
 
 ![sin titulo](https://user-images.githubusercontent.com/34143373/52630381-7dab6c00-2e92-11e9-95cc-af2e9df4bcd8.png)
 ![seghs](https://user-images.githubusercontent.com/34143373/52630423-9ca9fe00-2e92-11e9-88f4-922b999299a1.png)
